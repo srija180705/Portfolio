@@ -23,8 +23,7 @@ yarn-error.log*
 *.swp
 *.swo
 # Photos/Images (excluding from version control)
-*.jpeg
-*.jpg
+
 *.png
 *.gif
 *.webp
